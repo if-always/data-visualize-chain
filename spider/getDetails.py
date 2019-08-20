@@ -101,6 +101,6 @@ for line in fr:
 
 	count = count + 1
 	
-print count, errorCount
+print (count, errorCount)
 fr.close()
 fw.close()
